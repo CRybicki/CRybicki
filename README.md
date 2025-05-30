@@ -1,7 +1,9 @@
 # Hi, I'm Chris
 
 I'm currently studying **Graphic Information Technology** at Arizona State University.  
+
 I also hold a **B.S. in Entertainment Management** from the University of Central Florida.  
+
 I'm passionate about tech, themed entertainment, UX design, and making creative tools that help teams work better together.  
 
 ---
