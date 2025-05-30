@@ -1,8 +1,8 @@
 # Hi, I'm Chris
 
-🎓 I'm currently studying **Graphic Information Technology** at Arizona State University.  
-🎮 I also hold a **B.S. in Entertainment Management** from the University of Central Florida.  
-🛠 I'm passionate about tech, themed entertainment, UX design, and making creative tools that help teams work better together.  
+I'm currently studying **Graphic Information Technology** at Arizona State University.  
+I also hold a **B.S. in Entertainment Management** from the University of Central Florida.  
+I'm passionate about tech, themed entertainment, UX design, and making creative tools that help teams work better together.  
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ## GitHub Stats
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRybicki&show_icons=true&theme=tokyonight)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRybickii&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -27,7 +27,7 @@
 - I’ve worked at **Universal Studios Japan** and **Universal Orlando Resort** in themed entertainment.
 - My cat’s name is Lavernius Tucker
 - I have been playing World of Warcraft for 15 years.
-- Ihave committed nearly 300 hours to Fallout 4 (so far)!
+- I have committed nearly 300 hours to Fallout 4 (so far)!
 
 <!--
 **CRybicki/CRybicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
