@@ -18,16 +18,16 @@ I'm passionate about tech, themed entertainment, UX design, and making creative 
 
 ---
 
-## GitHub Stats
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRybicki&show_icons=true&theme=tokyonight)
-
----
-
 ## Fun Facts
 - I’ve worked at **Universal Studios Japan** and **Universal Orlando Resort** in themed entertainment.
 - My cat’s name is Lavernius Tucker
 - I have been playing World of Warcraft for 15 years.
 - I have committed nearly 300 hours to Fallout 4 (so far)!
+
+---
+
+## GitHub Stats
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRybicki&show_icons=true&theme=tokyonight)
 
 <!--
 **CRybicki/CRybicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
