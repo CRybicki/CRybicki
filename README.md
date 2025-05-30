@@ -19,7 +19,7 @@ I'm passionate about tech, themed entertainment, UX design, and making creative 
 ---
 
 ## GitHub Stats
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRybickii&show_icons=true&theme=tokyonight)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRybicki&show_icons=true&theme=tokyonight)
 
 ---
 
